@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-**ezran-eng/ezran-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About me](https://user-images.githubusercontent.com/62077267/139131182-1db8ec59-de0b-474c-b8a9-0c63c13ddfa6.gif)
 
 Here are some ideas to get you started:
-![About me](https://user-images.githubusercontent.com/62077267/139131182-1db8ec59-de0b-474c-b8a9-0c63c13ddfa6.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
